@@ -1,0 +1,10 @@
+{
+  "standard": "standard_user",
+  "performance": "performance_glitch_user",
+  "locked_out": "locked_out_user",
+  "unknown": "unknown_user",
+  "pass": "secret_sauce",
+  "firstName": "firstName",
+  "lastName": "lastName",
+  "postalCode": "postalCode"
+}
